@@ -3,6 +3,7 @@ body{
 
     font-family: Arial;
     text-align: center;
+    color: red;
 
 
 }
@@ -38,5 +39,9 @@ margin: 0;
 font-weight: bold;
 box-shadow: 0 px 5px 0px 30px rgba(0,0,0,0.75);
 width: 100%;
+
+}
+.tagline{
+margin: 10px;
 
 }
