@@ -1,0 +1,55 @@
+body{
+
+    background: #1e1f24;
+    font-family: Arial;
+    text-align: center;
+   
+
+}
+
+
+
+.container{
+text-align: center;
+padding: 1em;
+width: 70%;
+border: 1px solid black;
+margin: 0 auto;
+background: white;
+}
+
+
+
+.parrafo{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+
+}
+.cabecera .logo{
+width: 20px;
+vertical-align: middle;
+
+}
+.cabecera{
+color:white ;
+background:#37488b ;
+margin: 0;
+font-weight: bold;
+box-shadow: 0 px 5px 0px 30px rgba(0,0,0,0.5);
+padding: 1em;
+
+}
+.tagline{
+margin: 10px;
+
+}
+
+.footer{
+    background: #777;
+    color:white;
+    text-align: center;
+    padding: 0.5em;
+}
+
