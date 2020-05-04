@@ -1,9 +1,9 @@
 body{
 
-
+    background: #1e1f24;
     font-family: Arial;
     text-align: center;
-    color: blue;
+   
 
 }
 
@@ -15,32 +15,35 @@ padding: 1em;
 width: 70%;
 border: 1px solid black;
 margin: 0 auto;
-
+background: white;
 }
 
-.h1{
-    
-    font-size: 16px;
-    font-weight: 300;
-}
+
 
 .parrafo{
 
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
+    
+
+}
+.cabecera .logo{
+width: 20px;
+vertical-align: middle;
+left: 0;
 
 }
 .cabecera{
 color:white ;
-background: blue;
-padding: 0.5em;
+background:#37488b ;
 margin: 0;
 font-weight: bold;
-box-shadow: 0 px 5px 0px 30px rgba(0,0,0,0.75);
-width: 100%;
+box-shadow: 0 px 5px 0px 30px rgba(0,0,0,0.5);
+padding: 1em;
 
 }
 .tagline{
 margin: 10px;
 
 }
+
